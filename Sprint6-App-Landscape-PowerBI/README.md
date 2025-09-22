@@ -7,7 +7,10 @@ The goal was to analyze **app reviews and developer performance** using **Power 
 ---
 
 ## 👀 Dashboard Preview  
+
+Preview:  
 ![App Landscape Dashboard](Sprint6-screenshot.png)
+
 
 
 ---
