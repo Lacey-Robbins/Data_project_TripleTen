@@ -16,7 +16,6 @@ Each project demonstrates skills in SQL, Tableau, Power BI, and data storytellin
 ### Sprint 6 — App Landscape (Power BI)  
 - 📄 [Project Details](Sprint6-App-Landscape-PowerBI/README.md)  
 - 📑 [Power BI PDF Export](Sprint6-App-Landscape-PowerBI/Dashboard-pdf1.pdf)  
-- 📂 [Raw PBIX File (optional)](Sprint6-App-Landscape-PowerBI/Sprint6.pbix)  
 
 ---
 
