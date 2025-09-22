@@ -30,11 +30,13 @@ Preview:
 
 ---
 
-## 📌 Files in This Folder  
-- `Sprint6-screenshot.png` → Dashboard preview  
-- `Dashboard-pdf1.pdf` → Full report export (Power BI PDF)  
-- `Sprint6.pbix` → Raw Power BI file (optional to share)  
-- `README.md` → Project documentation (this file)  
+## 📌 Files in This Folder
+
+- [Dashboard Preview](Sprint6-screenshot.png) → Dashboard preview  
+- [Full Report Export (PDF)](Dashboard-pdf1.pdf) → Full report export (Power BI PDF)  
+- [Raw Power BI File (PBIX)](Sprint6.pbix) → Optional raw Power BI file  
+- [Project Documentation (README)](README.md) → This file
+
 
 ---
 
