@@ -24,3 +24,8 @@ This project analyzes **returns in a retail Superstore dataset**. It was complet
 - Tableau – dashboard design & storytelling  
 - Data analysis – trends, drivers, profitability  
 - Business intelligence – turning raw data into insights
+- 
+## 📌 Files in This Folder  
+
+- 🖼️ [Dashboard Preview](Dashboard-screenshot1.png)  
+- 📄 [Full Project Write-up (README)](README.md)  
